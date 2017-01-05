@@ -1,4 +1,3 @@
-setInterval(function() {
   console.log("Start")
   console.log("***********************");
   console.log("  New version message  ");
@@ -9,4 +8,3 @@ setInterval(function() {
   console.log(" end of message ")
   console.log("Bye!")
   console.log("End")
-}, 5000);
