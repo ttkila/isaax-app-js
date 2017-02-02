@@ -1,5 +1,5 @@
 setInterval(function() {
-  console.log("##########################");
+  console.log("xxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
   console.log("!!!Some important message!!!");
-  console.log("##########################");
+  console.log("xxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 }, 10000);
