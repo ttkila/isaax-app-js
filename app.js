@@ -1,3 +1,4 @@
 setInterval(function() {
-  console.log("XXX Some important message XXX");
+  console.log("xxx some important message xxx");
+  console.log("xxx some important message xxx");
 }, 10000);
